@@ -39,9 +39,10 @@
 }
 
 .credit-cell img {
-  width: 30vh; /* Ensure the image covers the container's width */
+  width: 30vh;
   object-fit: cover;
-  border-radius: 1vh;
+  border-radius: 2vh;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
 
 .credit-name {
